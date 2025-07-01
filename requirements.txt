@@ -6,3 +6,4 @@ openpyxl
 xlwings
 PyQt5
 pyqtgraph
+json
