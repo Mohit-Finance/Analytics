@@ -1,0 +1,9 @@
+pyotp
+requests
+pandas
+numpy
+openpyxl
+xlwings
+PyQt5
+pyqtgraph
+json
